@@ -1,0 +1,1094 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"live",
+				"live-code"
+			],
+			[
+				"str",
+				"strokey"
+			],
+			[
+				"att",
+				"attrs"
+			],
+			[
+				"ng-r",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"tra",
+				"translate	.attr('transform', 'translate(0,0)')"
+			],
+			[
+				"ro",
+				"rotate"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"lin",
+				"linedata"
+			],
+			[
+				"li",
+				"linedata"
+			],
+			[
+				"re",
+				"region"
+			],
+			[
+				"Ac",
+				"Act_x_2010"
+			],
+			[
+				"Acivity",
+				"Activity_x"
+			],
+			[
+				"ax",
+				"Activity_x"
+			],
+			[
+				"b",
+				"b2010"
+			],
+			[
+				"ver",
+				"verbose_directive	AngularJS"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"dat",
+				"dataPoints"
+			],
+			[
+				"Pas",
+				"Passenger"
+			],
+			[
+				"C",
+				"CSVtoDB"
+			],
+			[
+				"col",
+				"columns"
+			],
+			[
+				"co",
+				"columns"
+			],
+			[
+				"Freigh",
+				"Freight_Rail"
+			],
+			[
+				"mode",
+				"mode"
+			],
+			[
+				"W2",
+				"W2W_share"
+			],
+			[
+				"non",
+				"nonW2W"
+			],
+			[
+				"CO",
+				"CO2_per_km"
+			],
+			[
+				"cou",
+				"country"
+			],
+			[
+				"veh",
+				"vehicle"
+			],
+			[
+				"Passe",
+				"Passenger_Rail_Diesel"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"id",
+				"idnum"
+			],
+			[
+				"in",
+				"indentleft"
+			],
+			[
+				"indent",
+				"indenttop"
+			],
+			[
+				"ve",
+				"veh2"
+			],
+			[
+				"tr",
+				"translate"
+			],
+			[
+				"A",
+				"Activity"
+			],
+			[
+				"fill",
+				"fillcolor"
+			],
+			[
+				"reg",
+				"region"
+			],
+			[
+				"dis",
+				"distlist"
+			],
+			[
+				"di",
+				"distlist"
+			],
+			[
+				"fil",
+				"filepath"
+			],
+			[
+				"r",
+				"rangeBand"
+			],
+			[
+				"Pass",
+				"Passenger_RailPassenger_Rail_Diesel"
+			],
+			[
+				"df",
+				"dfnew"
+			],
+			[
+				"to",
+				"toFigure"
+			],
+			[
+				"a",
+				"Activity"
+			],
+			[
+				"def",
+				"defaultdict"
+			],
+			[
+				"count",
+				"country"
+			],
+			[
+				"c",
+				"country"
+			],
+			[
+				"P",
+				"Passenger_Rail"
+			],
+			[
+				"Frei",
+				"Freight_Rail"
+			],
+			[
+				"Air",
+				"Aircraft"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"cout",
+				"countries"
+			],
+			[
+				"selec",
+				"selection"
+			],
+			[
+				"coutn",
+				"country"
+			],
+			[
+				"name",
+				"namespace"
+			],
+			[
+				"t",
+				"tile_id"
+			],
+			[
+				"dow",
+				"downloadModal"
+			],
+			[
+				"GHG",
+				"GHGcalced"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"rb",
+				"rgba()"
+			],
+			[
+				"o",
+				"opacity"
+			],
+			[
+				"z",
+				"zoomInto"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"D",
+				"Dispatch"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"d",
+				"div"
+			],
+			[
+				"la",
+				"latLng"
+			],
+			[
+				"lat",
+				"latitude"
+			],
+			[
+				"marr",
+				"markers"
+			],
+			[
+				"add",
+				"addMarker"
+			],
+			[
+				"marker",
+				"markers"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"get",
+				"getUnique"
+			],
+			[
+				"Da",
+				"DataFrame"
+			],
+			[
+				"wei",
+				"weight_size"
+			],
+			[
+				"pa",
+				"payload"
+			],
+			[
+				"ef",
+				"ef_list"
+			],
+			[
+				"com",
+				"commodity"
+			],
+			[
+				"gr",
+				"graph"
+			],
+			[
+				"data",
+				"dataNest"
+			],
+			[
+				"sced",
+				"schedule"
+			],
+			[
+				"dri",
+				"drivescheduleid"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"dr",
+				"drivescheduleid"
+			],
+			[
+				"B",
+				"BSFC"
+			],
+			[
+				"sc",
+				"Schedule_ID"
+			],
+			[
+				"select",
+				"selectAll"
+			],
+			[
+				"stro",
+				"stroke-dasharray"
+			],
+			[
+				"on",
+				"oneortwo"
+			],
+			[
+				"p",
+				"p_tot"
+			],
+			[
+				"ghg",
+				"ghgsum"
+			],
+			[
+				"__",
+				"__ghg__"
+			],
+			[
+				"len",
+				"length-1"
+			],
+			[
+				"tes",
+				"testAjax"
+			],
+			[
+				"styles",
+				"stylesheets"
+			],
+			[
+				"Inn",
+				"innerRadius"
+			],
+			[
+				"ns",
+				"nstart"
+			],
+			[
+				"nst",
+				"nstart-1"
+			],
+			[
+				"da",
+				"data0"
+			],
+			[
+				"web",
+				"webapp2"
+			],
+			[
+				"render",
+				"render_template"
+			],
+			[
+				"write",
+				"writerow"
+			],
+			[
+				"Cs",
+				"CSVtoDB"
+			],
+			[
+				"EV",
+				"EV_Scenario"
+			],
+			[
+				"Ev",
+				"EVscenario"
+			],
+			[
+				"fu",
+				"fuel_eff_electric"
+			],
+			[
+				"Pe",
+				"PercentEV"
+			],
+			[
+				"coun",
+				"country"
+			],
+			[
+				"regio",
+				"regions"
+			],
+			[
+				"quer",
+				"query2db"
+			],
+			[
+				"s",
+				"sqlq"
+			],
+			[
+				"ex",
+				"exhaust"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"L",
+				"Lat"
+			],
+			[
+				"pl",
+				"plant_list"
+			],
+			[
+				"route",
+				"route_list"
+			],
+			[
+				"map",
+				"map_canvas"
+			],
+			[
+				"csv",
+				"csvContent"
+			],
+			[
+				"spee",
+				"speed_status"
+			],
+			[
+				"json",
+				"jsonlist"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Mike/d3-lessons/d3-maps/state_pol.json",
+		"/Users/Mike/d3-lessons/src/livecode.html",
+		"/Users/Mike/d3-lessons/css/setosa.css",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Mock Up/Abatement_uncertainty/revised_abatement.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Mock Up/Regional Comparison Baseline/UNEP_descending_bubble.py",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Mock Up/Abatement_uncertainty/abatement_matrix.py",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Mock Up/Abatement_uncertainty/abatement_matrix.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/UNEP_onroad.py",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Mock Up/Abatement_uncertainty/setosa.css",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Mock Up/Mode Switch/Revised Graph/setosa.css",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Mock Up/Regional Comparison Baseline/row.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Mock Up/Regional Comparison Baseline/setosa.css",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Mock Up/Regional Comparison Baseline/UNEP_bubbled_results.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Mock Up/Mode Switch/Revised Graph/angular-charts.js",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Mock Up/Mode Switch/Revised Graph/mode_switch_annimated_table_BLUE_MAP.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Mock Up/Mode Switch/Revised Graph/row_line.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Mock Up/Mode Switch/Revised Graph/row.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Mock Up/Mode Switch/Revised Graph/line.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Mock Up/Abatement_uncertainty/radar.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/scripts/soft_summary.py",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Mock Up/Abatement_uncertainty/push_ratioBusPC.csv",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Mock Up/Regional Comparison Baseline/GHG_2030_2050_reducitons_UNEP.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Mock Up/Regional Comparison Baseline/tailpipeCO2.csv",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Mock Up/Mode Switch/Revised Graph/mode_switch_annimated_table.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Summary/summary_results_GHG_UNEP.csv",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Mock Up/Mode Switch/mode_switch_scenarioAircraft_to_HSR_parallel.csv",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Mock Up/Mode Switch/mode_switch_annimated_table.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Mock Up/Mode Switch/mode_switch_parallel_axis.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/scripts/linkfiles.py",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Summary/summary_mode_switch.csv",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/scripts/correct_direct_emissions.py",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/scripts/import_UNEP_results.py",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/California Well-to-wheel/Model/PEMS/screenPEMS.py",
+		"/Users/Mike/Google Drive/UNEP_Onroad_Mike2Joe/correct_direct_emissions.py",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Summary/Tailpipe/tailpipeCO2.csv",
+		"/Users/Mike/Dropbox/UCB Classes/FA2014/IEOR 162/Project/Project Model/facility_loc_generic.py",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Output_Data/Bus/Diesel/2010/Africa/DIRECT_EMISSIONS_2010_Bus_Diesel_Africa_UNEP.csv",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Mock Up/Regional Comparison Baseline/GHG_2010_fuel related GHGs_UNEP_bars.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/scripts/aircraft_db.py",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Mock Up/Mode Switch/mode_switch_bar.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Mock Up/Regional Comparison Baseline/GHG_2010_fuel related GHGs_UNEP.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Mock Up/Regional Comparison Baseline/GHG_2050_reducitons_UNEP.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Mock Up/Electrify Auto/Electrify_Passenger.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Input_data/Aircraft/Aircraft_fuel_consumption.csv",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Visualize/commodity_bar.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Mock Up/Electrify Auto/Electrify_Passenger.xlsx",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/California Well-to-wheel/Model/PEMS/post_analysis.py",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/scripts/screen_VIUS.py",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/scripts/fuel_model.py",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/scripts/Coordinates2County.py",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/scripts/clean_FleetDNA.py",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/readme.txt",
+		"/Users/Mike/NJM/NJM/readme.txt",
+		"/Users/Mike/NJM/tiles/views.py",
+		"/Users/Mike/NJM/tiles/forms.py",
+		"/Users/Mike/NJM/tiles/models.py",
+		"/Users/Mike/NJM/tiles/admin.py",
+		"/Users/Mike/NJM/tiles/templates/tiles/profile_image.html",
+		"/Users/Mike/NJM/tiles/urls.py",
+		"/Users/Mike/NJM/tiles/templates/tiles/results.html",
+		"/Users/Mike/NJM/tiles/templates/tiles/detail.html",
+		"/Users/Mike/NJM/tiles/templates/tiles/profile_image_view.html",
+		"/Users/Mike/NJM/tiles/templates/tiles/profile_image_form.html",
+		"/Users/Mike/NJM/NJM/urls.py",
+		"/Users/Mike/NJM/NJM/__init__.py",
+		"/Users/Mike/NJM/tiles/url.py",
+		"/Users/Mike/NJM/tiles/templates/tiles/index.html",
+		"/Users/Mike/NJM/NJM/static/tiles/untitled",
+		"/Users/Mike/NJM/NJM/settings.py",
+		"/Users/Mike/Desktop/world/angJS/d3factory.js",
+		"/Users/Mike/testdjango/polls/models.py",
+		"/Users/Mike/testdjango/polls/urls.py",
+		"/Users/Mike/testdjango/testdjango/urls.py",
+		"/Users/Mike/testdjango/polls/templates/polls/profile_image_view.html",
+		"/Users/Mike/testdjango/polls/templates/polls/index.html",
+		"/Users/Mike/testdjango/polls/templates/polls/profile_image_form.html",
+		"/Users/Mike/testdjango/polls/templates/polls/profile_image.html",
+		"/Users/Mike/testdjango/polls/migrations/0001_initial.py",
+		"/Users/Mike/testdjango/testdjango/settings.py",
+		"/Users/Mike/testdjango/polls/admin.py",
+		"/Users/Mike/testdjango/admin/How to set up a server.txt",
+		"/Users/Mike/testdjango/polls/templates/polls/base.html",
+		"/Users/Mike/testdjango/forms.py",
+		"/Users/Mike/testdjango/polls/static/polls/style.css",
+		"/Users/Mike/testdjango/polls/templates/polls/detail.html",
+		"/Users/Mike/testdjango/polls/templates/polls/results.html",
+		"/Users/Mike/testdjango/polls/tests.py",
+		"/Users/Mike/testdjango/from django import forms",
+		"/Users/Mike/testdjango/tiles/templates/tiles/index.html",
+		"/Users/Mike/testdjango/tiles/urls.py",
+		"/Users/Mike/testdjango/tiles/admin.py",
+		"/Users/Mike/testdjango/tiles/models.py",
+		"/Users/Mike/testdjango/tiles/views.py",
+		"/Users/Mike/testdjango/polls/views.py",
+		"/Users/Mike/testdjango/home_page/models.py",
+		"/Users/Mike/testdjango/polls/templates/index.html",
+		"/Users/Mike/Desktop/Angular/dded.html",
+		"/Users/Mike/Desktop/Angular/searchable.html",
+		"/Users/Mike/w2wioapp/main.py",
+		"/Users/Mike/CleanShipping/views/water_landing_page.html",
+		"/Users/Mike/CleanShipping/views/water_tool.html",
+		"/Users/Mike/CleanShipping/views/water_info.html",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Work_Product/Google_Map_Tool/Road/Alpha 1.01/Legend/admin/stylesheets/scripts/speed-corrected_simple.js",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Paper/Figures/SFMTA Bus ridership/SFMTAbusridership.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/California Well-to-wheel/Model/PEMS/admin/view_district_level_stats.html",
+		"/Users/Mike/Desktop/viusheaders.csv",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Visualize/GHG_footprint_sensitivity.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Visualize/data/ef_commodity_demand_c8.csv",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Output_data/payloadorBSFC_c8.csv",
+		"/Users/Mike/Desktop/precipitation_Tap/legend.js",
+		"/Users/Mike/Desktop/precipitation_Tap/index.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Visualize/Payload_or_BSFC.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Visualize/js/untitled",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Visualize/speed_distribution_alt_2.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Visualize/js/legend.js",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Output_data/sensitivity_c6_2010.csv",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Qualification Exam/Work Product/Figures/Graphs/VIUS/stylesheets/em_payload_commodity.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Visualize/speed_distribution_alt.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Output_data/sensitivity_c8_2010.json",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Output_data/sensitivity_c8_2010.csv",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Input_data/Route_R.csv",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/scripts/visualize_duty_cycle.py",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Qualification Exam/Models/gem-v1.0-matlab 2/param_files/engine_map_350.m",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Input_data/driveschedule.csv",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Input_data/driveschedulesecond.csv",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Output_data/SummaryTable1_2010.csv",
+		"/Users/Mike/Desktop/untitled.tsv",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Output_data/drivingschedule_km_302_c8.csv"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h3",
+			"simple example",
+			"ifram",
+			"CSS",
+			" <p>CSS",
+			"d3.scale.sqrt().domain([0, 252070000]).range([2,40]);",
+			"d3.scale.linear().domain([0, 252070000]).range([2,40]);",
+			"d3.scale.linear().domain([0, 252070000]).range([2,30]);",
+			"by defaul",
+			"by def",
+			"\"g\" ",
+			"\"g\"",
+			"allow the",
+			"7 location on svg",
+			"7 loca",
+			"sets the",
+			"5.",
+			"d3.geo.conicConformal()",
+			"ifram",
+			"high",
+			"<pre",
+			"pre",
+			"corres",
+			"<pre>",
+			"code",
+			"well",
+			"pre",
+			"code",
+			"span",
+			"select project",
+			"for our e",
+			"dlab_m",
+			"regard",
+			"we will",
+			"bold",
+			"Simple example",
+			"<script src=\"http://d3js.org/d3.geo.projection.v0.min.js\"></script> // optional, depending on projection",
+			"optional",
+			"[0,5000], [0,25], \"Freight Rail\", \"HHD\"",
+			"abatementuncertaintyFreight Rail_HHD_2010.csv",
+			"[0,800], [1,200], \"High-Speed Rail\", \"Aircraft\"",
+			"abatementuncertaintyHSR_Aircraft_2010.csv",
+			"[0,4000]",
+			"abatementuncertaintyHSR_Passenger Rail_2010.csv",
+			"conso",
+			"[0,800], [0,400], \"High-Speed Rail\", \"Diesel Rail\"",
+			"auto po",
+			"[1,150], \"High-Speed Rail\"",
+			"conso",
+			"\"Auto (Gasoline)\"",
+			"\"Bus\"",
+			"[1,5]",
+			"[0,80]",
+			"abatementuncertaintyBus_Auto (Gasoline)_2010.csv",
+			"nonuse",
+			"hr",
+			"num=\"2\" index=\"{{key}}\"",
+			"ng-repeat=",
+			"num=\"{{key}}\" ng-repeat=\"(key,val) in pass",
+			"num=\"{{key}}\" ng-repeat=\"(key,val) in freight",
+			"ng-repeat=\"val",
+			"afri",
+			"\"OECD N. America\"",
+			"[100,57.959456605718728,27.515017830391532]",
+			"cons",
+			"tailpi",
+			"gid",
+			"80.030493165831542",
+			"dark",
+			"cris",
+			"print",
+			"[1,5]",
+			"[0,600]",
+			"640",
+			"290",
+			"340",
+			"670",
+			"\"abatementuncertaintyFreight Rail_HHD_2010.csv\"",
+			"[0,4000], [0,25], \"Freight Rail\", \"HHD\"",
+			"\"abatementuncertaintyHSR_Passenger Rail_2010.csv\"",
+			"\"abatementuncertaintyBus_Auto (Gasoline)_2010.csv\"",
+			"\"#000\"",
+			", [14, 1.54]",
+			"cons",
+			"pivo",
+			"mode1",
+			"print",
+			"pkl",
+			"right i",
+			"]}}\"></line-chart-sm>",
+			"{{d[",
+			"cons",
+			"scenario-row",
+			"console",
+			"red",
+			"}}></ba",
+			"{{color",
+			"pink",
+			"orange",
+			"purple",
+			"blue",
+			"green",
+			"opacity",
+			"toSavingsViaModeSwitch",
+			"blue",
+			"red",
+			"></bar",
+			"cons",
+			"dataset=\"dataset\"",
+			"bar-chart",
+			"<div class=\"col-xs-12\">\n                    <hr>\n                </div>",
+			"summary_results_GHG_UNEP",
+			"tailpipeCO2.pkl",
+			"toSavingsViaModeSwitch",
+			"mode_s",
+			"OECD Europe",
+			"2030 and ",
+			"abrv",
+			"axis",
+			"left",
+			"mouseover",
+			"color",
+			"Auto P",
+			"append",
+			"\"+fuel+\"_\"+region+\"_UNEP.csv\"",
+			"DIRECT_EMISSIONS_\"+str(year)+\"_\"+vehicle+\"_\"+fuel+\"_\"+region+\"_UNEP.csv\"",
+			"\"_\"+region+\"_UNEP.xlsm\"",
+			"str(year)+\"/\"+region"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"d3.scale.sqrt().domain([0, 252070000]).range([2,30]);",
+			"d3.scale.sqrt().domain([0, 252070000]).range([2,40]);",
+			"y location on svg",
+			"<pre class=\"highlight\">",
+			"<script src=\"http://d3js.org/d3.geo.projection.v0.min.js\"></script> <!-- optional, depending on projection -->",
+			"[0,5], [0,5], \"PHEV\", \"Auto (Gasoline)\"",
+			"abatementuncertaintyPHEV_Auto (Gasoline)_2010.csv",
+			"[0,5], [0,5], \"Electric Vehicle\", \"Auto (Gasoline)\"",
+			"abatementuncertaintyElectric Vehicle_Auto (Gasoline)_2010.csv",
+			"[0,5000]",
+			"abatementuncertaintyFreight Rail_HHD_2010.csv",
+			"[0,4000], [0,25], \"Freight Rail\", \"HHD\"",
+			"[1,200], \"High-Speed Rail\"",
+			"\"Aircraft\"",
+			"\"High-Speed Rail\"",
+			"[1,150]",
+			"[0,800]",
+			"abatementuncertaintyHSR_Aircraft_2010.csv",
+			"num=\"2\" index=\"{{key+9}}\"",
+			"index=\"{{key}}\" ng-repeat=",
+			"index={{key}} ng-repeat=",
+			"num=\"1\" ng-repeat=\"(key,val) in pass",
+			"num=\"2\" ng-repeat=\"(key,val) in freight",
+			"num=\"{{key}}\" ng-repeat=\"(key,val)",
+			"'OECD N. America'",
+			"{{data[\"OECD N. America\"][0]}}",
+			"100",
+			"[1,6]",
+			"[0,800]",
+			"620",
+			"280",
+			"400",
+			"600",
+			"700",
+			"\"abatementuncertaintyHSR_Passenger Rail_2010.csv\"",
+			"[0,670], [0,340], \"High-Speed Rail\", \"Passenger Rail\"",
+			"\"abatementuncertaintyFreight Rail_HHD_2010.csv\"",
+			"\"abatementuncertaintyHSR_Passenger Rail_2010.csv\"",
+			"color(region)",
+			"",
+			",2,3]\"></line-chart-sm>",
+			",2,3]}}\"></line-chart-sm>",
+			"[",
+			"scenario-row-bar",
+			"pink",
+			"}}'></ba",
+			"'{{color",
+			"red",
+			"pink",
+			"red",
+			"fill-opacity",
+			"orange",
+			"blue",
+			" color=\"red\"></bar",
+			"",
+			"bar-chart-sm",
+			"<div class=\"col-xs-12 small\">\n                    <hr>\n                </div>",
+			"OECD Pacific",
+			"region",
+			"click",
+			"\"+fuel+\"_\"+regionlist[region]+\"_UNEP.csv\"",
+			"DIRECT_EMISSIONS_\"+str(year)+\"_\"+vehicle+\"_\"+fuel+\"_\"+regionlist[region]+\"_UNEP.csv\"",
+			"\"_\"+regionlist[region]+\"_UNEP.xlsm\"",
+			"str(year)+\"/\"+regionlist[region]",
+			",",
+			"click",
+			"indentx",
+			"\",\"",
+			"kg_ghgsave_avg",
+			"kg_ghgsave_high",
+			"kg_ghgsave_low",
+			"2",
+			"region",
+			"48/2",
+			"48/3",
+			"38/3",
+			".attr(\"width\", 48)",
+			"d.mode ==\"Containership\" || d.mode ==\"Crude Tanker\" || d.mode ==\"HSR\"",
+			"[\"Airplane\",\"Diesel Bus\",\"Electric Vehicle\",\"PHEV\",\"Auto (Diesel)\",\"Auto (Gasoline)\",\"HSR\", \"Pass. Rail\"]",
+			"'example/home.html'",
+			"tiles",
+			"ubuntu",
+			"- 40px",
+			"- 38px",
+			"- 35px",
+			"- 40px",
+			"color: #000",
+			"50px",
+			"45px",
+			"50px",
+			"60px",
+			"98% - 40px",
+			"400px",
+			"ourRoute",
+			"4 - (+d.__weight_size)",
+			"4 - (+d.__weight_size - 2)",
+			".attr(\"height\", y.rangeBand()/3-1);",
+			"y(d.__name) + (+d.__weight_size - 2)*y.rangeBand()/3 - 1",
+			".attr(\"y\", function(d) { return y(d.__name) + (+d.__weight_size -2 )*y.rangeBand()/3); })",
+			".attr(\"y\", function(d) { return y(d.__name)+ (+d._weight_size-2)*y.rangeBand()/3); })",
+			"d.__name",
+			"\",\"",
+			"\",",
+			"\":\"",
+			",",
+			"color.quantiles()",
+			"d[0]",
+			".attr(\"x\", -55)\n	    	.attr(\"y\", -15)",
+			".attr(\"x\", -35)\n	    	.attr(\"y\", -15)",
+			".attr(\"x\", -15)\n	    	.attr(\"y\", -15)",
+			"top: 35",
+			".style(\"font-size\", 20)",
+			".style(\"font-size\", 20).style(\"font-weight\", \"bold\")",
+			" (1,000 kg)",
+			"(1,000 kg)",
+			"1000 kg",
+			".style(\"font-size\", 18).style(\"font-weight\", \"bold\")",
+			".style(\"font-size\", 16).style(\"font-weight\", \"bold\")",
+			".style(\"font-size\", 20).style(\"font-weight\", \"bold\")",
+			"elif(p<12):",
+			"elif(p<10):",
+			"if(p<9):",
+			".style(\"opacity\",0.55)",
+			".style(\"opacity\",0.4)",
+			".text(function(d){ return d[4]})\n				    .style(\"font-size\", 14).style(\"opacity\",0.7)",
+			"//.style(\"stroke\", function(){ if (e > 80){ return \"none\"}else{return  \"#000\"}})",
+			"a.payload, a.totE, a.x",
+			"a.totE"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 356.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "me.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"scripts/lesson.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
